@@ -1,0 +1,1998 @@
+2023-08-30 18:56:24 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-30 18:56:25 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-30 18:56:25 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-30 18:59:54 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-30 18:59:55 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-30 18:59:55 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-30 18:59:57 INFO  demoSiteTesting:42 - login successfully
+2023-08-31 09:21:09 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 09:21:09 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 09:21:10 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 09:22:27 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 09:22:27 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 09:22:28 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 09:22:30 INFO  demoSiteTesting:42 - login test successful
+2023-08-31 09:31:08 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 09:31:08 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 09:31:08 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 09:31:10 INFO  demoSiteTesting:42 - login test successful
+2023-08-31 09:31:39 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 09:31:39 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 09:31:39 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 09:31:41 INFO  demoSiteTesting:42 - login test successful
+2023-08-31 10:32:30 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 10:32:30 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 10:32:30 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 10:32:33 INFO  demoSiteTesting:42 - login test successful
+2023-08-31 10:37:56 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 10:37:57 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 10:37:57 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 10:37:59 INFO  demoSiteTesting:42 - login test successful
+2023-08-31 10:38:45 INFO  demoSiteTesting:21 - browser open successfully
+2023-08-31 10:38:45 INFO  demoSiteTesting:26 - user name sent successfully
+2023-08-31 10:38:45 INFO  demoSiteTesting:29 - password sent successfully
+2023-08-31 10:38:47 INFO  demoSiteTesting:42 - login test successful
+2023-09-01 13:32:43 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-01 13:32:44 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-01 13:32:44 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-01 13:32:46 INFO  demoSiteTesting:42 - login test successful
+2023-09-01 13:36:14 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-01 13:36:15 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-01 13:36:15 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-01 13:36:17 INFO  demoSiteTesting:42 - login test successful
+2023-09-04 09:30:20 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 09:30:20 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 09:30:21 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 09:30:23 INFO  demoSiteTesting:42 - login test successful
+2023-09-04 09:34:23 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 09:34:24 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 09:34:25 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 09:34:29 INFO  demoSiteTesting:42 - login test successful
+2023-09-04 09:37:46 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 09:37:46 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 09:37:48 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 09:37:51 INFO  demoSiteTesting:42 - login test successful
+2023-09-04 09:42:31 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 09:42:31 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 09:42:31 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 09:42:34 INFO  demoSiteTesting:42 - login test successful
+2023-09-04 10:07:34 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 10:07:34 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 10:07:34 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 10:07:38 INFO  demoSiteTesting:47 - page title not matched hence log in failed
+2023-09-04 10:09:27 INFO  demoSiteTesting:21 - browser open successfully
+2023-09-04 10:09:27 INFO  demoSiteTesting:26 - user name sent successfully
+2023-09-04 10:09:27 INFO  demoSiteTesting:29 - password sent successfully
+2023-09-04 10:09:30 INFO  demoSiteTesting:47 - page title not matched hence log in failed
+2023-09-04 10:11:17 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-04 10:11:18 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-04 10:11:18 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-04 10:13:15 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-04 10:13:15 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-04 10:13:15 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-04 10:13:17 INFO  demoSiteTesting:45 - login test successful
+2023-09-04 10:13:56 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-04 10:13:56 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-04 10:13:56 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-05 10:51:05 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-05 10:51:05 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-05 10:51:05 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-05 10:53:14 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-05 10:53:14 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-05 10:53:14 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-05 10:54:46 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-05 10:54:46 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-05 10:54:46 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-08 11:23:20 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-08 11:23:20 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-08 11:23:21 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-08 11:24:54 INFO  demoSiteTesting:22 - browser open successfully
+2023-09-08 11:24:55 INFO  demoSiteTesting:27 - user name sent successfully
+2023-09-08 11:24:55 INFO  demoSiteTesting:30 - password sent successfully
+2023-09-08 11:24:57 INFO  demoSiteTesting:45 - login test successful
+2023-12-06 11:07:14 INFO  demoSiteTesting:22 - browser open successfully
+2023-12-06 11:07:15 INFO  demoSiteTesting:27 - user name sent successfully
+2023-12-06 11:07:15 INFO  demoSiteTesting:30 - password sent successfully
+2023-12-06 11:21:23 INFO  demoSiteTesting:23 - browser open successfully
+2023-12-06 11:21:24 INFO  demoSiteTesting:28 - user name sent successfully
+2023-12-06 11:21:24 INFO  demoSiteTesting:31 - password sent successfully
+2023-12-06 11:21:25 INFO  demoSiteTesting:34 - click submit button successfully
+2023-12-06 11:22:47 INFO  demoSiteTesting:23 - browser open successfully
+2023-12-06 11:22:48 INFO  demoSiteTesting:28 - user name sent successfully
+2023-12-06 11:22:48 INFO  demoSiteTesting:31 - password sent successfully
+2023-12-06 11:22:48 INFO  demoSiteTesting:34 - click submit button successfully
+2023-12-06 11:23:59 INFO  demoSiteTesting:23 - browser open successfully
+2023-12-06 11:23:59 INFO  demoSiteTesting:28 - user name sent successfully
+2023-12-06 11:23:59 INFO  demoSiteTesting:31 - password sent successfully
+2023-12-06 11:24:00 INFO  demoSiteTesting:34 - click submit button successfully
+2023-12-06 11:24:39 INFO  demoSiteTesting:23 - browser open successfully
+2023-12-06 11:24:39 INFO  demoSiteTesting:28 - user name sent successfully
+2023-12-06 11:24:39 INFO  demoSiteTesting:31 - password sent successfully
+2023-12-06 11:24:40 INFO  demoSiteTesting:34 - click submit button successfully
+2023-12-06 11:25:16 INFO  demoSiteTesting:23 - browser open successfully
+2023-12-06 11:25:17 INFO  demoSiteTesting:28 - user name sent successfully
+2023-12-06 11:25:17 INFO  demoSiteTesting:31 - password sent successfully
+2023-12-06 11:25:18 INFO  demoSiteTesting:34 - click submit button successfully
+2023-12-06 11:57:56 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 11:57:57 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 11:57:57 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 11:57:58 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 11:57:58 INFO  demoSiteTesting:53 - username or password is wrong
+2023-12-06 11:58:01 INFO  demoSiteTesting:73 - page title not matched hence log in failed
+2023-12-06 12:01:01 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 12:01:02 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 12:01:02 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 12:01:03 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 12:01:03 INFO  demoSiteTesting:53 - username or password is wrong
+2023-12-06 12:01:05 INFO  demoSiteTesting:73 - page title not matched hence log in failed
+2023-12-06 12:02:41 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 12:02:41 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 12:02:41 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 12:02:42 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 12:05:21 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 12:05:21 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 12:05:22 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 12:05:22 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 12:05:22 INFO  demoSiteTesting:50 - username or password is wrong
+2023-12-06 12:05:24 INFO  demoSiteTesting:70 - page title not matched hence log in failed
+2023-12-06 12:15:41 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 12:15:42 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 12:15:42 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 12:15:43 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 12:15:43 INFO  demoSiteTesting:50 - username or password is wrong
+2023-12-06 12:15:45 INFO  demoSiteTesting:70 - page title not matched hence log in failed
+2023-12-06 12:36:49 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-06 12:36:49 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-06 12:36:49 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-06 12:36:51 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-06 12:36:57 INFO  demoSiteTesting:64 - login test successful
+2023-12-09 10:48:55 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 10:48:56 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 10:48:56 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 10:48:58 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 10:49:04 INFO  demoSiteTesting:64 - login test successful
+2023-12-09 11:41:28 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:41:28 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:41:29 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:41:33 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:41:33 INFO  demoSiteTesting:55 - login test successful
+2023-12-09 11:42:11 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:42:12 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:42:12 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:42:13 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:43:03 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:43:03 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:43:03 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:43:04 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:44:51 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:44:51 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:44:52 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:44:52 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:45:19 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:45:24 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:45:24 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:45:25 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:46:09 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:46:10 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:46:10 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:46:11 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:47:36 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:47:37 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:47:37 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:47:37 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:48:26 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:48:27 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:48:27 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:48:28 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:49:33 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:49:33 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:49:33 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:49:34 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:49:34 INFO  demoSiteTesting:49 - username or password is wrong
+2023-12-09 11:50:46 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:50:46 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:50:46 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:50:47 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:51:32 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:51:33 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:51:33 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:51:34 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:52:16 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:52:16 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:52:17 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:52:17 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:52:17 INFO  demoSiteTesting:49 - username or password is wrong
+2023-12-09 11:53:31 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:53:32 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:53:32 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:53:33 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 11:56:18 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 11:56:18 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 11:56:18 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 11:56:19 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:00:20 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:00:20 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:00:20 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:00:21 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:02:07 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:02:08 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:02:08 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:02:09 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:04:53 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:04:54 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:04:54 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:04:55 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:06:03 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:06:03 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:06:03 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:06:04 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:06:04 INFO  demoSiteTesting:53 - username or password is wrong
+2023-12-09 12:07:02 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:07:02 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:07:02 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:07:03 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:07:57 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:07:58 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:07:58 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:07:59 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:09:03 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:09:04 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:09:04 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:09:05 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:09:05 INFO  demoSiteTesting:53 - username or password is wrong
+2023-12-09 12:10:21 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:10:21 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:10:21 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:10:22 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:10:22 INFO  demoSiteTesting:55 - username or password is wrong
+2023-12-09 12:11:19 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:11:19 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:11:20 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:11:20 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:12:03 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:12:04 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:12:04 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:12:04 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:12:08 INFO  demoSiteTesting:56 - username or password is wrong
+2023-12-09 12:14:02 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:14:02 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:14:03 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:14:03 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:15:59 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:15:59 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:16:00 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:16:00 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:16:48 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:16:49 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:16:49 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:16:50 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:19:33 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:19:34 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:19:34 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:19:35 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:19:40 INFO  demoSiteTesting:58 - username or password is wrong
+2023-12-09 12:21:00 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:21:01 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:21:01 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:21:02 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:21:07 INFO  demoSiteTesting:58 - username or password is wrong
+2023-12-09 12:22:21 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:22:21 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:22:22 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:22:22 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:23:13 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:23:13 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:23:14 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:23:14 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:23:14 INFO  demoSiteTesting:59 - username or password is wrong
+2023-12-09 12:47:22 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:47:22 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:47:22 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:47:23 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:50:01 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:50:02 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:50:02 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:50:03 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:51:29 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:51:30 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:51:30 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:51:30 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:52:48 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:52:48 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:52:48 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:52:49 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:52:49 INFO  demoSiteTesting:55 - Username or password is wrong
+2023-12-09 12:53:47 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:53:47 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:53:48 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:53:49 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:54:44 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:54:44 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:54:44 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:54:45 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:55:28 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:55:28 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:55:28 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:55:29 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:56:39 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-09 12:56:39 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-09 12:56:39 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-09 12:56:40 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-09 12:56:40 INFO  demoSiteTesting:59 - Username or password is wrong
+2023-12-23 11:28:50 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:29:17 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:29:46 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:30:10 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:30:13 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:30:14 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:30:14 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:30:14 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:30:14 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:30:14 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:30:15 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:30:15 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:30:15 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:30:15 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:30:17 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:30:17 INFO  demoSiteTesting:115 - Customer could not be added !!
+2023-12-23 11:30:18 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:30:19 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:30:19 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:30:20 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:30:20 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:30:22 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:30:22 INFO  demoSiteTesting:115 - Customer could not be added !!
+2023-12-23 11:32:18 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:32:22 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:32:22 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:32:22 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:32:22 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:32:23 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:32:25 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:32:25 INFO  demoSiteTesting:115 - Customer could not be added !!
+2023-12-23 11:32:26 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:32:26 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:32:27 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:32:27 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:32:28 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:32:32 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:32:42 INFO  demoSiteTesting:128 - new cust registered sucessfully
+2023-12-23 11:34:17 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:34:21 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:34:21 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:34:21 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:34:21 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:34:21 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:34:22 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:34:22 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:34:22 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:34:22 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:34:22 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:34:25 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:34:36 INFO  demoSiteTesting:128 - new cust registered sucessfully
+2023-12-23 11:34:44 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:34:44 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:34:44 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:34:44 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:34:44 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:34:44 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:34:45 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:34:45 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:34:45 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:34:45 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:34:48 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:34:58 INFO  demoSiteTesting:128 - new cust registered sucessfully
+2023-12-23 11:46:21 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 11:46:21 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 11:46:21 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 11:46:23 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 11:46:34 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 11:46:45 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:46:47 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:46:48 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:46:48 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:46:48 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:46:48 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:46:48 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:46:48 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:46:49 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:46:49 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:46:49 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:46:49 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:46:49 INFO  demoSiteTesting:115 - please fill all fields
+2023-12-23 11:46:52 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:46:52 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:46:52 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:46:52 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:46:52 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:46:53 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:46:53 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:46:53 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:46:53 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:46:53 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:46:56 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:47:06 INFO  demoSiteTesting:128 - new cust registered sucessfully
+2023-12-23 11:54:20 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 11:54:21 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 11:54:21 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 11:54:24 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 11:54:34 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 11:54:48 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:55:24 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 11:55:24 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 11:55:25 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 11:55:27 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 11:55:37 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 11:55:51 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:55:53 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 11:55:53 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 11:55:53 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 11:55:54 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 11:55:55 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 11:55:59 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 11:56:09 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 11:58:10 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 11:58:11 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 11:58:11 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 11:58:13 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 11:58:23 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 11:58:38 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 11:59:12 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 11:59:12 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 11:59:13 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 11:59:15 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 11:59:25 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 11:59:40 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:00:03 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:00:04 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:00:04 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:00:06 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:00:17 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:00:27 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:00:57 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:00:57 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:00:57 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:01:01 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:01:11 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:01:26 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:01:31 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:01:31 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:01:31 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:01:31 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:01:31 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:01:32 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:01:32 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:01:32 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:01:32 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:01:32 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:01:34 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:01:45 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:01:53 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:01:53 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:01:53 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:01:53 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:01:53 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:01:54 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:01:54 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:01:54 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:01:54 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:01:54 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:01:58 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:02:08 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:03:59 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:03:59 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:03:59 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:04:01 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:04:11 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:04:26 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:04:29 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:04:29 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:04:29 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:04:30 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:04:33 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:04:44 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:04:51 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:04:52 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:04:52 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:04:53 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:04:53 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:04:56 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:05:06 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:05:14 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:05:14 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:05:14 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:05:15 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:05:19 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:05:30 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:05:36 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:05:36 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:05:36 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:05:36 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:05:36 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:05:37 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:05:37 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:05:37 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:05:37 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:05:37 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:05:40 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:05:51 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:05:58 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:05:58 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:05:58 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:05:58 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:05:59 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:06:03 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:06:13 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:06:20 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:06:20 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:06:20 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:06:20 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:06:20 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:06:21 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:06:21 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:06:21 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:06:21 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:06:21 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:06:25 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:06:35 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:06:43 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:06:43 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:06:43 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:06:43 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:06:44 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:06:48 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:06:58 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:07:06 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:07:06 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:07:06 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:07:06 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:07:06 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:07:06 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:07:07 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:07:07 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:07:07 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:07:07 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:07:11 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:07:21 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:07:28 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:07:28 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:07:28 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:07:28 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:07:28 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:07:28 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:07:28 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:07:29 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:07:29 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:07:29 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:07:31 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:07:42 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:07:48 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:07:48 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:07:49 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:07:49 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:07:50 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:07:52 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:08:03 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:14:18 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:14:19 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:14:19 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:14:25 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:14:35 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:14:49 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:14:52 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:14:52 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:14:52 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:14:53 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:14:53 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:14:53 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:14:53 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:14:54 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:14:54 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:14:54 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:14:56 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:15:42 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:15:42 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:15:42 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:15:44 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:15:54 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:16:07 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:16:12 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:16:12 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:16:12 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:16:13 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:16:14 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:16:16 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:16:26 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:16:31 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:16:31 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:16:31 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:16:32 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:16:33 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:16:34 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:16:36 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:16:37 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:16:37 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:16:38 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:16:40 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:16:50 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:16:53 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:16:54 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:16:54 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:16:55 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:16:55 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:16:57 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:16:58 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:16:58 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:16:58 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:16:59 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:16:59 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:17:00 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:17:00 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:17:01 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:17:02 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:17:02 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:17:04 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:17:15 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:17:18 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:17:18 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:17:19 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:17:19 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:17:20 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:17:21 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:17:21 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:17:21 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:17:21 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:17:21 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:17:21 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:17:22 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:17:22 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:17:22 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:17:22 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:17:23 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:17:24 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:17:24 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:17:24 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:17:25 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:17:29 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:17:40 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:19:26 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:19:27 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:19:27 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:19:30 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:19:40 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:19:54 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:19:58 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:19:58 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:19:59 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:19:59 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:00 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:00 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:20:01 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:20:01 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:20:01 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:20:02 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:03 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:05 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:20:15 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:20:19 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:20:19 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:20:19 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:20 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:22 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:20:24 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:20:24 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:20:24 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:20:24 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:20:24 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:20:25 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:20:25 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:20:25 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:20:25 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:25 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:28 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:20:39 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:20:43 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:20:43 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:20:44 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:44 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:46 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:20:47 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:20:47 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:20:48 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:20:48 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:20:51 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:21:01 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:21:05 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:21:05 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:21:06 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:21:06 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:21:06 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:21:06 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:21:06 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:21:07 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:21:07 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:21:07 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:21:11 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:21:21 INFO  demoSiteTesting:129 - new cust registered sucessfully
+2023-12-23 12:21:25 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:21:25 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:21:25 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:21:26 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:21:26 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:21:27 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:23:10 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:23:11 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:23:11 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:23:14 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:23:24 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:23:36 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:23:47 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:23:47 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:23:47 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:23:48 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:23:50 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:24:01 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:24:06 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:24:06 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:24:06 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:24:07 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:24:07 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:24:10 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:24:20 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:24:24 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:24:25 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:24:25 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:24:26 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:24:26 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:24:29 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:24:39 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:24:43 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:24:43 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:24:43 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:24:43 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:24:43 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:24:44 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:24:44 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:24:44 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:24:44 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:24:44 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:24:47 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:24:58 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:27:12 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-23 12:27:13 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-23 12:27:13 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-23 12:27:15 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-23 12:27:25 INFO  demoSiteTesting:77 - login test successful
+2023-12-23 12:27:37 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-23 12:27:40 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:27:40 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:27:40 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:27:41 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:27:41 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:27:41 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:27:41 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:27:41 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:27:42 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:27:42 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:27:44 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:27:55 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:28:03 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:28:03 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:28:04 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:28:04 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:28:04 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:28:04 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:28:04 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:28:04 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:28:05 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:28:05 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:28:07 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:28:18 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-23 12:28:22 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:28:22 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:28:22 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:28:22 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:28:22 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:28:22 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:28:22 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:28:23 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:28:23 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:28:23 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:28:24 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:28:24 INFO  demoSiteTesting:117 - Customer could not be added !!
+2023-12-23 12:28:27 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:28:27 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:28:27 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:28:28 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:28:28 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:28:28 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:28:28 INFO  demoSiteTesting:117 - please fill all fields
+2023-12-23 12:28:29 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:28:29 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:28:29 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:28:30 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:28:30 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:28:30 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:28:30 INFO  demoSiteTesting:117 - please fill all fields
+2023-12-23 12:28:31 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-23 12:28:31 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-23 12:28:31 INFO  demoSiteTesting:78 - dob set ok
+2023-12-23 12:28:31 INFO  demoSiteTesting:82 - address set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:86 - city set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:90 - state set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:93 - pin set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:100 - email set ok
+2023-12-23 12:28:32 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-23 12:28:34 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-23 12:28:45 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:29:13 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-30 14:29:13 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-30 14:29:14 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-30 14:29:15 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-30 14:29:15 INFO  demoSiteTesting:59 - Username or password is wrong
+2023-12-30 14:29:25 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:30:01 INFO  demoSiteTesting:27 - browser open successfully
+2023-12-30 14:30:01 INFO  demoSiteTesting:32 - user name sent successfully
+2023-12-30 14:30:01 INFO  demoSiteTesting:35 - password sent successfully
+2023-12-30 14:30:02 INFO  demoSiteTesting:38 - click submit button successfully
+2023-12-30 14:30:02 INFO  demoSiteTesting:59 - Username or password is wrong
+2023-12-30 14:30:11 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:31:29 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:33:38 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:33:44 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:33:44 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:33:44 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:33:44 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:33:45 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:33:47 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:33:58 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:34:03 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:34:03 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:34:03 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:34:03 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:34:03 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:34:03 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:34:04 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:34:04 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:34:04 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:34:04 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:34:06 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:34:17 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:34:20 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:34:20 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:34:20 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:34:20 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:34:20 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:34:20 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:34:20 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:34:21 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:34:21 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:34:21 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:34:24 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:35:56 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:36:00 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:36:00 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:36:00 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:36:01 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:36:03 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:36:14 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:36:16 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:36:17 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:36:17 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:36:18 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:36:18 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:36:18 INFO  demoSiteTesting:117 - please fill all fields
+2023-12-30 14:36:19 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:36:19 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:36:19 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:36:19 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:36:19 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:36:19 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:36:19 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:36:20 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:36:20 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:36:20 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:36:22 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:36:32 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:36:35 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:36:35 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:36:36 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:36:36 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:36:37 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:36:38 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:36:49 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2023-12-30 14:36:53 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:36:53 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:36:53 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:36:53 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:36:53 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:36:54 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:36:54 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:36:54 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:36:54 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:36:54 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:36:56 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:37:46 INFO  demoSiteTesting:35 - loged in sucessfully
+2023-12-30 14:37:48 INFO  demoSiteTesting:71 - new cust name set ok
+2023-12-30 14:37:48 INFO  demoSiteTesting:75 - female radio button selected
+2023-12-30 14:37:49 INFO  demoSiteTesting:78 - dob set ok
+2023-12-30 14:37:49 INFO  demoSiteTesting:82 - address set ok
+2023-12-30 14:37:49 INFO  demoSiteTesting:86 - city set ok
+2023-12-30 14:37:49 INFO  demoSiteTesting:90 - state set ok
+2023-12-30 14:37:50 INFO  demoSiteTesting:93 - pin set ok
+2023-12-30 14:37:50 INFO  demoSiteTesting:96 - mobile set ok
+2023-12-30 14:37:50 INFO  demoSiteTesting:100 - email set ok
+2023-12-30 14:37:50 INFO  demoSiteTesting:104 - passowrd set ok
+2023-12-30 14:37:52 INFO  demoSiteTesting:107 - clicked on submit
+2023-12-30 14:38:03 INFO  demoSiteTesting:130 - new cust registered sucessfully
+2024-01-16 13:57:20 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 13:58:10 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 14:17:30 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 14:23:29 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 14:31:50 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:14:02 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:16:08 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:33:58 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:35:42 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:35:42 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 16:36:13 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:36:13 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 16:38:38 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 16:38:38 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:29:24 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:29:24 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:29:28 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:29:28 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:29:29 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:29:29 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:29:29 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:29:29 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:29:30 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:29:30 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:29:30 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:29:30 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:29:33 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:29:43 INFO  demoSiteTesting:114 - new cust registered sucessfully
+2024-01-16 17:32:29 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:32:31 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:32:33 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:32:33 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:32:33 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:32:33 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:32:33 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:32:33 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:32:34 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:32:34 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:32:34 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:32:34 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:32:38 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:32:49 INFO  demoSiteTesting:114 - new cust registered sucessfully
+2024-01-16 17:34:26 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:34:26 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:34:31 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:34:31 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:34:32 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:34:32 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:34:32 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:34:33 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:34:33 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:34:33 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:34:33 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:34:33 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:34:37 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:34:47 INFO  demoSiteTesting:114 - new cust registered sucessfully
+2024-01-16 17:36:25 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:36:26 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:36:29 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:30 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:30 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:30 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:30 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:31 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:31 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:31 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:31 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:32 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:32 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:32 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:32 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:32 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:32 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:33 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:34 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:34 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:34 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:34 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:34 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:34 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:34 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:35 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:36 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:36 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:36 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:36 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:36 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:36 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:36 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:36 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:37 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:37 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:37 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:37 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:37 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:37 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:37 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:37 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:38 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:38 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:39 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:39 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:39 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:39 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:40 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:40 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:41 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:41 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:41 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:42 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:42 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:42 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:42 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:42 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:42 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:42 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:42 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:43 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:43 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:44 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:44 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:44 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:45 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:45 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:45 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:45 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:46 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:46 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:47 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:47 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:47 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:48 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:48 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:48 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:48 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:49 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:49 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:50 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:50 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:36:50 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:36:51 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:36:51 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:36:51 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:36:51 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:36:51 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:36:51 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:36:51 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:36:51 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:38:04 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:38:05 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:38:09 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:38:09 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:38:09 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:38:09 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:38:09 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:38:10 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:38:10 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:38:10 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:38:10 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:38:11 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:38:14 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:38:24 INFO  demoSiteTesting:114 - new cust registered sucessfully
+2024-01-16 17:42:53 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:42:54 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:42:56 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:42:56 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:42:56 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:42:56 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:42:56 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:42:56 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:42:57 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:42:57 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:42:57 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:42:57 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:42:57 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:42:57 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:42:58 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:42:58 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:42:58 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:42:58 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:42:58 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:42:58 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:42:59 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:42:59 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:42:59 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:00 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:00 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:01 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:01 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:01 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:01 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:01 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:01 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:01 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:01 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:02 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:02 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:02 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:03 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:03 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:04 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:04 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:04 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:04 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:04 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:04 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:05 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:05 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:06 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:06 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:06 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:07 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:07 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:07 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:07 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:07 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:07 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:07 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:07 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:08 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:08 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:43:08 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:09 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:09 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:09 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:09 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:47 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:43:49 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:43:50 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:50 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:50 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:50 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:50 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:51 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:51 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:51 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:51 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:51 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:43:53 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:43:53 INFO  demoSiteTesting:104 - Customer could not be added !!
+2024-01-16 17:43:55 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:43:55 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:43:55 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:43:55 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:43:55 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:43:55 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:43:55 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:43:56 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:43:56 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:43:56 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:44:01 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:44:11 INFO  demoSiteTesting:114 - new cust registered sucessfully
+2024-01-16 17:46:53 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:46:54 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:46:57 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:46:58 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:46:58 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:46:58 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:46:58 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:46:59 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:46:59 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:46:59 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:46:59 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:46:59 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:47:03 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:47:15 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-16 17:48:42 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:48:42 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:48:45 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:48:45 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:48:45 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:48:46 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:48:46 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:48:46 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:48:47 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:48:47 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:48:47 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:48:47 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:48:50 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:49:03 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-16 17:50:30 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:50:31 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:50:35 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:50:36 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:50:36 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:50:37 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:50:38 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:50:41 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:50:53 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-16 17:51:00 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:00 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:01 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:01 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:02 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:04 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:16 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-16 17:51:23 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:23 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:23 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:24 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:24 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:24 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:24 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:26 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:26 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:27 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:27 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:28 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:28 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:28 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:30 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:30 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:30 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:30 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:30 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:31 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:31 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:34 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:34 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:34 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:34 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:34 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:34 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:34 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:35 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:35 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:35 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:35 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:35 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:37 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:37 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:37 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:38 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:38 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:41 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:41 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:41 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:41 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:41 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:41 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:41 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:42 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:42 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:42 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:42 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:42 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:44 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:44 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:44 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:45 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:46 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:46 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:51:48 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:51:48 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:51:48 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:51:48 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:51:48 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:51:49 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:51:49 INFO  demoSiteTesting:104 - please fill all fields
+2024-01-16 17:53:23 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-16 17:53:24 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-16 17:53:26 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-16 17:53:26 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-16 17:53:26 INFO  demoSiteTesting:65 - dob set ok
+2024-01-16 17:53:26 INFO  demoSiteTesting:69 - address set ok
+2024-01-16 17:53:26 INFO  demoSiteTesting:73 - city set ok
+2024-01-16 17:53:27 INFO  demoSiteTesting:77 - state set ok
+2024-01-16 17:53:27 INFO  demoSiteTesting:80 - pin set ok
+2024-01-16 17:53:27 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-16 17:53:27 INFO  demoSiteTesting:87 - email set ok
+2024-01-16 17:53:27 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-16 17:53:33 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-16 17:53:45 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:04:56 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-18 11:04:57 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-18 11:04:58 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:04:58 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:04:59 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:04:59 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:04:59 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:04:59 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:05:00 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:05:00 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:05:00 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:05:00 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:05:01 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:05:01 INFO  demoSiteTesting:104 - Customer could not be added !!
+2024-01-18 11:05:04 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:05:04 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:05:04 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:05:05 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:05:05 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:05:05 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:05:05 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:05:05 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:05:06 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:05:06 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:05:09 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:05:22 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:08:13 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-18 11:08:14 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-18 11:08:18 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:08:18 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:08:18 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:08:18 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:08:19 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:08:19 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:08:19 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:08:19 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:08:20 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:08:20 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:08:22 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:08:35 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:15:07 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-18 11:15:08 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-18 11:15:10 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:15:10 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:15:10 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:15:10 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:15:10 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:15:11 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:15:11 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:15:11 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:15:11 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:15:11 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:15:13 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:15:25 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:15:30 INFO  demoSiteTesting:132 - page refreshed
+2024-01-18 11:15:31 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-18 11:15:33 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:15:33 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:15:33 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:15:33 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:15:34 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:15:37 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:15:49 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:15:54 INFO  demoSiteTesting:132 - page refreshed
+2024-01-18 11:15:54 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-18 11:20:08 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-18 11:20:09 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-18 11:20:10 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-18 11:20:11 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-18 11:20:11 INFO  demoSiteTesting:65 - dob set ok
+2024-01-18 11:20:11 INFO  demoSiteTesting:69 - address set ok
+2024-01-18 11:20:11 INFO  demoSiteTesting:73 - city set ok
+2024-01-18 11:20:11 INFO  demoSiteTesting:77 - state set ok
+2024-01-18 11:20:12 INFO  demoSiteTesting:80 - pin set ok
+2024-01-18 11:20:12 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-18 11:20:12 INFO  demoSiteTesting:87 - email set ok
+2024-01-18 11:20:12 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-18 11:20:14 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-18 11:20:26 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-18 11:20:30 INFO  demoSiteTesting:132 - page refreshed
+2024-01-18 11:20:31 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 10:59:48 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 10:59:48 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 10:59:52 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 10:59:52 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 10:59:52 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 10:59:52 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 10:59:53 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 10:59:54 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 10:59:54 INFO  demoSiteTesting:104 - Customer could not be added !!
+2024-01-19 10:59:56 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 10:59:57 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 10:59:57 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 10:59:58 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:00:00 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:00:13 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:00:18 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:00:19 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:00:19 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:00:19 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:00:19 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:00:20 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:00:20 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:00:20 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:00:20 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:00:20 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:00:21 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:00:21 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:00:25 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:00:37 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:00:42 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:00:42 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:00:43 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:00:43 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:00:43 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:00:43 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:00:43 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:00:43 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:00:44 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:00:44 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:00:44 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:00:44 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:00:47 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:00:59 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:01:05 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:01:06 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:01:07 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:01:07 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:01:07 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:01:07 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:01:07 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:01:07 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:01:08 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:01:08 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:01:08 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:01:08 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:01:09 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:01:09 INFO  demoSiteTesting:104 - Customer could not be added !!
+2024-01-19 11:01:11 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:01:11 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:01:11 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:01:11 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:01:11 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:01:11 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:01:11 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:01:12 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:01:12 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:01:12 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:01:15 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:01:28 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:01:32 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:01:33 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:01:33 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:01:34 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:01:34 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:01:34 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:01:34 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:01:34 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:01:34 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:01:35 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:01:35 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:01:35 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:01:38 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:01:51 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:01:54 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:01:55 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:03:39 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 11:03:40 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 11:03:43 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:03:44 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:03:44 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:03:44 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:03:44 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:03:44 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:03:45 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:03:45 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:03:45 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:03:45 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:03:48 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:04:00 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:04:06 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:04:07 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:04:08 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:04:08 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:04:08 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:04:08 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:04:08 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:04:08 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:04:09 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:04:09 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:04:09 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:04:09 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:04:13 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:04:25 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:04:30 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:04:30 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:04:30 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:04:30 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:04:30 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:04:31 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:04:34 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:04:46 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:04:51 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:04:51 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-19 11:04:52 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:04:52 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:04:52 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:04:52 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:04:52 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:04:52 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:04:53 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:04:53 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:04:53 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:04:53 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:04:55 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:04:55 INFO  demoSiteTesting:104 - Customer could not be added !!
+2024-01-19 11:04:57 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:04:57 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:04:57 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:04:57 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:04:57 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:04:57 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:04:57 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:04:58 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:04:58 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:04:58 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:04:59 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:21:27 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 11:21:27 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 11:24:32 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 11:24:32 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 11:25:05 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 11:25:06 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 11:33:57 INFO  demoSiteTesting:35 - loged in sucessfully
+2024-01-19 11:33:59 INFO  demoSiteTesting:43 - clicking on new cust link sucessfully
+2024-01-19 11:34:00 INFO  demoSiteTesting:58 - new cust name set ok
+2024-01-19 11:34:00 INFO  demoSiteTesting:62 - female radio button selected
+2024-01-19 11:34:00 INFO  demoSiteTesting:65 - dob set ok
+2024-01-19 11:34:00 INFO  demoSiteTesting:69 - address set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:73 - city set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:77 - state set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:80 - pin set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:83 - mobile set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:87 - email set ok
+2024-01-19 11:34:01 INFO  demoSiteTesting:91 - passowrd set ok
+2024-01-19 11:34:05 INFO  demoSiteTesting:94 - clicked on submit
+2024-01-19 11:34:17 INFO  demoSiteTesting:115 - new cust registered sucessfully
+2024-01-19 11:34:27 INFO  demoSiteTesting:132 - page refreshed
+2024-01-19 11:34:27 INFO  demoSiteTesting:134 - again clicked on new cust link
+2024-01-22 13:01:47 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:01:50 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:01:53 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:14:29 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:14:32 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:14:34 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:15:36 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:15:39 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:15:42 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:22:27 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 13:24:31 INFO  demoSiteTesting:37 - loged in sucessfully
+2024-01-22 14:21:16 INFO  demoSiteTesting:43 - loged in sucessfully
+2024-01-22 14:21:17 INFO  demoSiteTesting:47 - clicking on new cust link sucessfully
+2024-01-22 14:47:24 INFO  demoSiteTesting:43 - loged in sucessfully
+2024-01-22 14:47:24 INFO  demoSiteTesting:47 - clicking on new cust link sucessfully
+2024-01-22 14:52:10 INFO  demoSiteTesting:45 - loged in sucessfully
+2024-01-22 15:01:54 INFO  demoSiteTesting:45 - loged in sucessfully
+2024-01-22 15:02:54 INFO  demoSiteTesting:45 - loged in sucessfully
+2024-01-22 15:02:54 INFO  demoSiteTesting:49 - clicking on new cust link sucessfully
+2024-01-22 15:02:58 INFO  demoSiteTesting:62 - new cust name set ok
+2024-01-22 15:02:58 INFO  demoSiteTesting:66 - female radio button selected
+2024-01-22 15:02:58 INFO  demoSiteTesting:69 - dob set ok
+2024-01-22 15:02:58 INFO  demoSiteTesting:73 - address set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:77 - city set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:81 - state set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:84 - pin set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:87 - mobile set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:91 - email set ok
+2024-01-22 15:02:59 INFO  demoSiteTesting:95 - passowrd set ok
+2024-01-22 15:03:02 INFO  demoSiteTesting:98 - clicked on submit
+2024-01-22 15:03:15 INFO  demoSiteTesting:120 - new cust registered sucessfully
+2024-01-22 15:03:18 INFO  demoSiteTesting:132 - page refreshed
+2024-01-22 15:03:19 INFO  demoSiteTesting:135 - again clicked on new cust link
+2024-01-22 15:03:19 INFO  demoSiteTesting:62 - new cust name set ok
+2024-01-22 15:03:19 INFO  demoSiteTesting:66 - female radio button selected
+2024-01-22 15:03:19 INFO  demoSiteTesting:69 - dob set ok
+2024-01-22 15:03:19 INFO  demoSiteTesting:73 - address set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:77 - city set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:81 - state set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:84 - pin set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:87 - mobile set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:91 - email set ok
+2024-01-22 15:03:20 INFO  demoSiteTesting:95 - passowrd set ok
+2024-01-22 15:03:22 INFO  demoSiteTesting:98 - clicked on submit
+2024-01-22 15:03:35 INFO  demoSiteTesting:120 - new cust registered sucessfully
+2024-01-22 15:03:58 INFO  demoSiteTesting:132 - page refreshed
+2024-01-22 15:07:38 INFO  demoSiteTesting:50 - loged in sucessfully
+2024-01-22 15:07:38 INFO  demoSiteTesting:54 - clicking on new cust link sucessfully
+2024-01-22 15:07:42 INFO  demoSiteTesting:67 - new cust name set ok
+2024-01-22 15:07:42 INFO  demoSiteTesting:71 - female radio button selected
+2024-01-22 15:07:42 INFO  demoSiteTesting:74 - dob set ok
+2024-01-22 15:07:42 INFO  demoSiteTesting:78 - address set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:82 - city set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:86 - state set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:89 - pin set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:92 - mobile set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:96 - email set ok
+2024-01-22 15:07:43 INFO  demoSiteTesting:100 - passowrd set ok
+2024-01-22 15:07:46 INFO  demoSiteTesting:103 - clicked on submit
+2024-01-22 15:07:59 INFO  demoSiteTesting:125 - new cust registered sucessfully
+2024-01-22 15:08:02 INFO  demoSiteTesting:137 - page refreshed
+2024-01-22 15:08:03 INFO  demoSiteTesting:140 - again clicked on new cust link
+2024-01-22 15:08:03 INFO  demoSiteTesting:67 - new cust name set ok
+2024-01-22 15:08:03 INFO  demoSiteTesting:71 - female radio button selected
+2024-01-22 15:08:03 INFO  demoSiteTesting:74 - dob set ok
+2024-01-22 15:08:03 INFO  demoSiteTesting:78 - address set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:82 - city set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:86 - state set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:89 - pin set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:92 - mobile set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:96 - email set ok
+2024-01-22 15:08:04 INFO  demoSiteTesting:100 - passowrd set ok
+2024-01-22 15:08:06 INFO  demoSiteTesting:103 - clicked on submit
+2024-01-22 15:08:19 INFO  demoSiteTesting:125 - new cust registered sucessfully
+2024-01-22 15:08:23 INFO  demoSiteTesting:137 - page refreshed
+2024-01-22 15:08:23 INFO  demoSiteTesting:140 - again clicked on new cust link
+2024-01-22 15:15:23 INFO  demoSiteTesting:50 - loged in sucessfully
+2024-01-22 15:15:23 INFO  demoSiteTesting:54 - clicking on new cust link sucessfully
+2024-01-22 15:35:41 INFO  demoSiteTesting:55 - loged in sucessfully
+2024-01-22 15:35:41 INFO  demoSiteTesting:59 - clicking on new cust link sucessfully
+2024-01-22 15:39:00 INFO  demoSiteTesting:55 - loged in sucessfully
+2024-01-22 15:39:00 INFO  demoSiteTesting:59 - clicking on new cust link sucessfully
+2024-01-23 14:29:56 INFO  demoSiteTesting:53 - User or Password is not valid
+2024-01-23 14:29:56 INFO  demoSiteTesting:62 - loged in sucessfully
+2024-01-23 14:41:47 INFO  demoSiteTesting:55 - loged in sucessfully
+2024-01-23 14:43:36 INFO  demoSiteTesting:53 - User or Password is not valid
+2024-01-23 14:43:36 INFO  demoSiteTesting:57 - loged in sucessfully
+2024-01-23 14:44:58 INFO  demoSiteTesting:53 - User or Password is not valid
+2024-01-23 14:44:58 INFO  demoSiteTesting:57 - loged in sucessfully
+2024-01-23 14:45:48 INFO  demoSiteTesting:53 - User or Password is not valid
+2024-01-23 14:45:48 INFO  demoSiteTesting:57 - loged in sucessfully
+2024-01-23 14:48:24 INFO  demoSiteTesting:27 - browser open successfully
+2024-01-23 14:48:25 INFO  demoSiteTesting:32 - user name sent successfully
+2024-01-23 14:48:26 INFO  demoSiteTesting:35 - password sent successfully
+2024-01-23 14:48:28 INFO  demoSiteTesting:39 - click submit button successfully
+2024-01-23 14:48:28 INFO  demoSiteTesting:60 - Username or password is wrong
+2024-01-23 14:50:24 INFO  demoSiteTesting:27 - browser open successfully
+2024-01-23 14:50:25 INFO  demoSiteTesting:32 - user name sent successfully
+2024-01-23 14:50:25 INFO  demoSiteTesting:35 - password sent successfully
+2024-01-23 14:50:25 INFO  demoSiteTesting:39 - click submit button successfully
+2024-01-24 11:06:49 INFO  demoSiteTesting:27 - browser open successfully
+2024-01-24 11:06:50 INFO  demoSiteTesting:32 - user name sent successfully
+2024-01-24 11:06:50 INFO  demoSiteTesting:35 - password sent successfully
+2024-01-24 11:06:50 INFO  demoSiteTesting:39 - click submit button successfully
+2024-01-24 11:09:26 INFO  demoSiteTesting:27 - browser open successfully
+2024-01-24 11:09:26 INFO  demoSiteTesting:32 - user name sent successfully
+2024-01-24 11:09:26 INFO  demoSiteTesting:35 - password sent successfully
+2024-01-24 11:09:27 INFO  demoSiteTesting:39 - click submit button successfully
